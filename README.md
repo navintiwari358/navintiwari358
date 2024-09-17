@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... development 
 - 📫 How to reach me ...end
 - 😄 Pronouns: ...jai shree ram
-- ⚡ Fun fact: ...tenge tenge
+- ⚡ Fun fact: ...chin tapak dum dum
 
 <!---
 navintiwari358/navintiwari358 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
