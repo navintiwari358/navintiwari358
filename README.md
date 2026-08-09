@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @navintiwari358
+- 👋 Hi, I’m Naveen Tiwari 
 - 👀 I’m interested in mod & technical 
 - 🌱 I’m currently learning ... development 
 - 📫 How to reach me ...end
